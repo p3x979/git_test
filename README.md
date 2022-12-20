@@ -1,2 +1,2 @@
 # git_test
-testing git functionality
+Testing git functionality
